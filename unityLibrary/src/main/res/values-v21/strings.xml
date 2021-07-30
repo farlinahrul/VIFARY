@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Vifary</string>
+    <string name="hi_praktikan">Hi, <b>Praktikan</b>\nPraktikum sekarang, yuk!
+    </string>
+    <string name="tanaman_hidroponik">Tanaman\nHidroponik</string>
+    <string name="tanaman_aquaponik">Tanaman\nAquaponik</string>
+    <string name="pilih">Pilih</string>
+    <string name="title_tanaman_hidroponik">Tanaman <b>Hidroponik</b></string>
+    <string name="tentang_tanaman_info">Tanaman hidroponik merupakan setiap tanaman yang pembudidayaannya tidak bertumpu pada tanah, namun ia bertumpu pada aliran air sebagai penghasil nutrisinya.</string>
+    <string name="implementasi_iot_info_popup">Sistem yang dapat diimplementasikan pada tanaman ini adalah <b>sistem monitoring dan pemberian nutrisi secara otomatis</b> pada tanaman hidroponik. Aktifkan kamera AR dibawah untuk melihat <b>komponen IOT</b> yang dibutuhkan</string>
+    <string name="ar_perakitan_info">Aktifkan kamera AR dibawah ini untuk mengetahui tata cara perakitan dalam bentuk objek dimensi tiga. Arahkan kamera pada Marker di sisi web.</string>
+    <string name="konfigurasi_lcd_pin">Konfigurasi</string>
+    <string name="konfigurasi_lcd_pin2"><b>LCD Pin</b></string>
+    <string name="konfigurasi_ultrasonic_pin">Konfigurasi</string>
+    <string name="konfigurasi_ultrasonic_pin2"><b>Ultrasonic Pin</b></string>
+    <string name="konfigurasi_buzzer_pin">Konfigurasi</string>
+    <string name="konfigurasi_buzzer_pin2"><b>Buzzer \u0026 Potent Pin</b></string>
+    <string name="Akonfigurasi_buzzer_pin2"><b>Buzzer \u0026 DHT 22</b></string>
+    <string name="konfigurasi__relay_pin">Konfigurasi</string>
+    <string name="konfigurasi__relay_pin2"><b>Relay Pin</b></string>
+    <string name="info_lcd">Konfigurasi<font color="#d27979"><b>\nLCD Pin</b></font></string>
+    <string name="info_ult">Konfigurasi<font color="#d27979"><b>\nUltrasonic Pin</b></font></string>
+    <string name="info_relay">Konfigurasi<font color="#d27979"><b>\n Relay Pin</b></font></string>
+    <string name="info_buzzer">Konfigurasi<font color="#d27979"><b>\nBuzzer \u0026 Potent Pin</b></font></string>
+    <string name="info_buzzer1">Konfigurasi<font color="#d27979"><b>\nDHT 22</b></font></string>
+    <string name="lcd_1"><b>VSS</b> pada <font color="#d27979"><b>GND</b></font></string>
+    <string name="lcd_2"><b>VDD</b> pada <font color="#d27979"><b>SV</b></font></string>
+    <string name="lcd_3"><b>VO</b> pada <font color="#d27979" ><b>Potensiometer</b></font></string>
+    <string name="lcd_4"><b>RS</b> pada <font color="#d27979" ><b>Pin 2</b></font></string>
+    <string name="lcd_5"><b>RW</b> pada <font color="#d27979" ><b>GND</b></font></string>
+    <string name="lcd_6"><b>R</b> pada <font color="#d27979" ><b>Pin 3</b></font></string>
+    <string name="lcd_7"><b>D4</b> pada <font color="#d27979" ><b>Pin 4</b></font></string>
+    <string name="lcd_8"><b>D5</b> pada <font color="#d27979" ><b>Pin 5</b></font></string>
+    <string name="lcd_9"><b>D6</b> pada <font color="#d27979" ><b>Pin 6</b></font></string>
+    <string name="lcd_10"><b>D7</b> pada <font color="#d27979" ><b>Pin 7</b></font></string>
+    <string name="lcd_11"><b>A</b> pada <font color="#d27979" ><b>SV</b></font></string>
+    <string name="lcd_12"><b>K</b> pada <font color="#d27979" ><b>GND</b></font></string>
+    <string name="ult_1"><b>TRIG</b> pada <font color="#d27979" ><b>Pin 10</b></font></string>
+    <string name="ult_2"><b>ECHOSONIQ</b> pada <font color="#d27979" ><b>Pin 11</b></font></string>
+    <string name="ult_3"><b>VCC</b> pada <font color="#d27979" ><b>5V</b></font></string>
+    <string name="ult_4"><b>GND</b> pada <font color="#d27979" ><b>GND</b></font></string>
+    <string name="bzr_1"><b>Buzzer Pin (-)</b> pada <font color="#d27979" ><b>GND</b></font></string>
+    <string name="bzr_2"><b>Buzzer Pin (+)</b> pada <font color="#d27979" ><b>5V</b></font></string>
+    <string name="bzr_3"><b>Buzzer Potent (-)</b> pada <font color="#d27979" ><b>GND</b></font></string>
+    <string name="bzr_4"><b>Buzzer Potent (+)</b> pada <font color="#d27979" ><b>V0</b></font></string>
+
+</resources>

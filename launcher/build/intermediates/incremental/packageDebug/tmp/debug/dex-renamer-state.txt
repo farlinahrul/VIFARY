@@ -1,0 +1,4 @@
+#Fri Jul 30 11:41:39 ICT 2021
+base.0=F\:\\LIDM\\Bundle\\Kompilasi2\\launcher\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

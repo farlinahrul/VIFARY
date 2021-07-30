@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\LIDM\\Bundle\\Kompilasi2\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lii\\.gradle\\caches\\transforms-2\\files-2.1\\eb1126220a4268498be199236398488d\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "372,447,534,764",
+                        "endLines": "8,9,13,17",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "442,529,759,1001"
+                    }
+                },
+                {
+                    "source": "F:\\LIDM\\Bundle\\Kompilasi2\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,11,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,559,743",
+                        "endLines": "7,14,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "367,738,888"
+                    },
+                    "to": {
+                        "startLines": "2,21,25",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,1185,1369",
+                        "endLines": "7,24,28",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "367,1364,1514"
+                    }
+                },
+                {
+                    "source": "F:\\LIDM\\Bundle\\Kompilasi2\\launcher\\src\\main\\res\\values-v28\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "1006",
+                        "endLines": "20",
+                        "endColumns": "8",
+                        "endOffsets": "1180"
+                    }
+                }
+            ]
+        }
+    ]
+}

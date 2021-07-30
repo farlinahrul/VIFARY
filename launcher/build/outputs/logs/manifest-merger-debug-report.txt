@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-83:12
+MERGED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:17:1-46:12
+MERGED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\eb1126220a4268498be199236398488d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\c92b032a14b870914f7b9b800560cf41\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\dee68eb9e14ca2f277c6f3fc43a737eb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\a25edb65e0b643b12490084f50664117\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\707e447992c3e51700e7259e667e6ef2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\7b525c51a582fdff82510ed137dd5305\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\08526960a76b7b544e0266c8f6854875\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ca8787040d23c2bfae444dd396fa880c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\2b1eb299b91e40e303644b0ea7ecfaf4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\a4b4a05c8bf552cdac69baf9d5f98277\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\d538560a4d2a01bd2f3015d3ed9481cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\75ed22e70e62bc66a2aab6d6d8e7271b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\64f9f34c9bc5cfb92fa842009c004bd7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\14262850c69ae34a6c5efe593c39d08a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\1d05fd23b966db1e2da1627290bf97eb\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\0788ef05af50edd198a7bff2ba338967\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ecdd8cfc628ccaf7c30f2aa1a088cb41\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\12c58e0f34fd8be50ee0afcce8accd5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\bde2510c90b7da84fbe1e2596fecc840\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\326436faf0f71fd9c7e9a7c6dd2a8f52\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\79857edad0debb1467a35fccbbed60b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ed7d4cb56816f144f317d30c68e37b1c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\d3b86c54f9280ef36b1353a1fc01dfa6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\6edf1e909fbb6df8eea315219903ae0f\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:70-108
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:109-155
+	android:versionCode
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:3:156-196
+supports-screens
+ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:5:3-82
+MERGED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:5-81:19
+MERGED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:5-81:19
+MERGED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:30:5-44:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\c92b032a14b870914f7b9b800560cf41\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\c92b032a14b870914f7b9b800560cf41\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\707e447992c3e51700e7259e667e6ef2\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\707e447992c3e51700e7259e667e6ef2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\1d05fd23b966db1e2da1627290bf97eb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\1d05fd23b966db1e2da1627290bf97eb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ecdd8cfc628ccaf7c30f2aa1a088cb41\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ecdd8cfc628ccaf7c30f2aa1a088cb41\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\1d05fd23b966db1e2da1627290bf97eb\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml:5:49-79
+uses-sdk
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:26:5-28:41
+MERGED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:7:5-44
+MERGED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:7:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\eb1126220a4268498be199236398488d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\eb1126220a4268498be199236398488d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\c92b032a14b870914f7b9b800560cf41\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\c92b032a14b870914f7b9b800560cf41\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\dee68eb9e14ca2f277c6f3fc43a737eb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\dee68eb9e14ca2f277c6f3fc43a737eb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\a25edb65e0b643b12490084f50664117\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\a25edb65e0b643b12490084f50664117\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\707e447992c3e51700e7259e667e6ef2\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\707e447992c3e51700e7259e667e6ef2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\7b525c51a582fdff82510ed137dd5305\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\7b525c51a582fdff82510ed137dd5305\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\08526960a76b7b544e0266c8f6854875\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\08526960a76b7b544e0266c8f6854875\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ca8787040d23c2bfae444dd396fa880c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ca8787040d23c2bfae444dd396fa880c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\2b1eb299b91e40e303644b0ea7ecfaf4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\2b1eb299b91e40e303644b0ea7ecfaf4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\a4b4a05c8bf552cdac69baf9d5f98277\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\a4b4a05c8bf552cdac69baf9d5f98277\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\d538560a4d2a01bd2f3015d3ed9481cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\d538560a4d2a01bd2f3015d3ed9481cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\75ed22e70e62bc66a2aab6d6d8e7271b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\75ed22e70e62bc66a2aab6d6d8e7271b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\64f9f34c9bc5cfb92fa842009c004bd7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\64f9f34c9bc5cfb92fa842009c004bd7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\14262850c69ae34a6c5efe593c39d08a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\14262850c69ae34a6c5efe593c39d08a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\1d05fd23b966db1e2da1627290bf97eb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\1d05fd23b966db1e2da1627290bf97eb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\0788ef05af50edd198a7bff2ba338967\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\0788ef05af50edd198a7bff2ba338967\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ecdd8cfc628ccaf7c30f2aa1a088cb41\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ecdd8cfc628ccaf7c30f2aa1a088cb41\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\12c58e0f34fd8be50ee0afcce8accd5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\12c58e0f34fd8be50ee0afcce8accd5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\bde2510c90b7da84fbe1e2596fecc840\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\bde2510c90b7da84fbe1e2596fecc840\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\326436faf0f71fd9c7e9a7c6dd2a8f52\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\326436faf0f71fd9c7e9a7c6dd2a8f52\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\79857edad0debb1467a35fccbbed60b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\79857edad0debb1467a35fccbbed60b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ed7d4cb56816f144f317d30c68e37b1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\ed7d4cb56816f144f317d30c68e37b1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\d3b86c54f9280ef36b1353a1fc01dfa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\d3b86c54f9280ef36b1353a1fc01dfa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\6edf1e909fbb6df8eea315219903ae0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\6edf1e909fbb6df8eea315219903ae0f\AndroidManifest.xml:20:5-44
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+		INJECTED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-55
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:12:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-62
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-21:36
+MERGED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:9:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:9:5-60
+	android:required
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-33
+		MERGED from F:\LIDM\Bundle\Kompilasi2\launcher\src\main\AndroidManifest.xml
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:9-72
+activity#com.unity3d.player.AquaKonfigurasiPin
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-74
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:19-71
+activity#com.unity3d.player.MainMenu
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:9-64
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:19-61
+activity#com.unity3d.player.MenuAquaponik
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-69
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:19-66
+activity#com.unity3d.player.MenuHidroponik
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:9-70
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:19-67
+activity#com.unity3d.player.KonfigurasiPin
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:9-70
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:19-67
+activity#com.unity3d.player.MainActivity
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:27-74
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:9-64:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-194
+	android:theme
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-54
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:13-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-60:40
+	android:value
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:17-37
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-63:40
+	android:value
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:17-37
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:9-68:33
+	android:value
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-30
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:9-71:36
+	android:value
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-33
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:9-74:50
+	android:value
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-47
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:9-77:68
+	android:value
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:13-65
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:13-42
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:9-80:40
+	android:value
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from [:unityLibrary] F:\LIDM\Bundle\Kompilasi2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:13-46
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\3044c2cefadd8d16bef3ada0b01c5a1a\AndroidManifest.xml:38:13-62
+uses-permission#android.permission.INTERNET
+ADDED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Lii\.gradle\caches\transforms-2\files-2.1\65cfaa76a5dcd7b9059466ce3706368d\AndroidManifest.xml:13:22-76

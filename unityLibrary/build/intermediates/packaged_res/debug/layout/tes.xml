@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KonfigurasiPin"
+    android:orientation="vertical">
+    <ImageButton
+        android:id="@+id/btnBeranda"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+
+        android:background="@drawable/btn_menu"
+        android:src="@drawable/button_ripple_2"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Konfigurasi Pin"
+        android:fontFamily="@font/ms_reguler"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"
+        android:textSize="32sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Internet of Things"
+        android:fontFamily="@font/ms_bold"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="16dp"
+        android:textSize="32sp"/>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="16dp">
+                    <ImageButton
+                        android:id="@+id/btnUltrasonicPin"
+                        android:onClick="showPopupPinUltrasonic"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="200dp"
+                        android:background="@drawable/button_konfigurasi_pin_ripple_2"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+                        <LinearLayout
+                            android:layout_marginTop="16dp"
+                            android:layout_marginStart="16dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                            <FrameLayout
+
+                                android:layout_width="100dp"
+                                android:layout_height="100dp">
+                                <de.hdodenhof.circleimageview.CircleImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:src="#F7AF25"/>
+                                <ImageView
+                                    android:layout_width="80dp"
+                                    android:layout_height="80dp"
+                                    android:src="@drawable/ic_pin_ultrasonic"
+                                    android:layout_gravity="center"/>
+                            </FrameLayout>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:orientation="vertical">
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center_vertical"
+                                    android:layout_marginLeft="16dp"
+                                    android:text="@string/konfigurasi_ultrasonic_pin"
+                                    android:textSize="24sp"
+                                    android:fontFamily="@font/ms_reguler"
+                                    android:textColor="#000"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center_vertical"
+                                    android:layout_marginLeft="16dp"
+                                    android:text="@string/konfigurasi_ultrasonic_pin2"
+                                    android:textSize="24sp"
+                                    android:fontFamily="@font/ms_bold"
+                                    android:textColor="#000"/>
+
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="16dp">
+                            <ImageButton
+                                android:id="@+id/btnBuzzerPin"
+                                android:onClick="showPopupPinBuzzer"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginBottom="100dp"
+                                android:background="@drawable/button_konfigurasi_pin_ripple_3"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical">
+                                <LinearLayout
+                                    android:layout_marginTop="16dp"
+                                    android:layout_marginStart="16dp"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+                                    <FrameLayout
+
+                                        android:layout_width="100dp"
+                                        android:layout_height="100dp">
+                                        <de.hdodenhof.circleimageview.CircleImageView
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:src="#B21919"/>
+                                        <ImageView
+                                            android:layout_width="80dp"
+                                            android:layout_height="80dp"
+                                            android:src="@drawable/ic_pin_buzzer_n_potent"
+                                            android:layout_gravity="center"/>
+                                    </FrameLayout>
+                                    <LinearLayout
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_gravity="center_vertical"
+                                        android:orientation="vertical">
+                                        <TextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_gravity="center_vertical"
+                                            android:layout_marginLeft="16dp"
+                                            android:text="@string/konfigurasi_buzzer_pin"
+                                            android:textSize="24sp"
+                                            android:fontFamily="@font/ms_reguler"
+                                            android:textColor="#000"/>
+                                        <TextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_gravity="center_vertical"
+                                            android:layout_marginLeft="16dp"
+                                            android:text="@string/Akonfigurasi_buzzer_pin2"
+                                            android:textSize="24sp"
+                                            android:fontFamily="@font/ms_bold"
+                                            android:textColor="#000"/>
+
+
+                                    </LinearLayout>
+
+                                </LinearLayout>
+                                <FrameLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="16dp">
+                                    <ImageButton
+                                        android:id="@+id/btnRelayPin"
+                                        android:onClick="showPopupPinRelay"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:background="@drawable/button_konfigurasi_pin_ripple_4"/>
+                                    <LinearLayout
+                                        android:layout_marginTop="16dp"
+                                        android:layout_marginStart="16dp"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:orientation="horizontal">
+                                        <FrameLayout
+
+                                            android:layout_width="100dp"
+                                            android:layout_height="100dp"
+                                            android:layout_marginBottom="16dp">
+                                            <de.hdodenhof.circleimageview.CircleImageView
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:src="#EB6D18"/>
+                                            <ImageView
+                                                android:layout_width="80dp"
+                                                android:layout_height="80dp"
+                                                android:src="@drawable/ic_pin_relay"
+                                                android:layout_gravity="center"/>
+                                        </FrameLayout>
+                                        <LinearLayout
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_gravity="center_vertical"
+                                            android:orientation="vertical">
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_gravity="center_vertical"
+                                                android:layout_marginLeft="16dp"
+                                                android:text="@string/konfigurasi__relay_pin"
+                                                android:textSize="24sp"
+                                                android:fontFamily="@font/ms_reguler"
+                                                android:textColor="#000"/>
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_gravity="center_vertical"
+                                                android:layout_marginLeft="16dp"
+                                                android:text="@string/konfigurasi__relay_pin2"
+                                                android:textSize="24sp"
+                                                android:fontFamily="@font/ms_bold"
+                                                android:textColor="#000"/>
+
+
+                                        </LinearLayout>
+
+                                    </LinearLayout>
+
+
+                                </FrameLayout>
+
+
+
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_gravity="bottom"
+        android:text="Kembali"
+        android:fontFamily="@font/ms_bold"
+        android:textColor="#FFF"
+        android:textSize="16sp"
+        android:textAllCaps="false"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/button_ripple_5"
+        />
+</LinearLayout>
+

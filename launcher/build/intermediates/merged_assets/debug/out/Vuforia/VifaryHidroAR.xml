@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="RelayModule" size="1.000000 1.000000" />
+    <ImageTarget name="Potentiometer" size="1.000000 1.000000" />
+    <ImageTarget name="PompaAkuarium" size="1.000000 1.000000" />
+    <ImageTarget name="Cable" size="1.000000 1.000000" />
+    <ImageTarget name="LCD" size="1.000000 1.000000" />
+    <ImageTarget name="HC_SR04" size="1.000000 1.000000" />
+    <ImageTarget name="HasilRangkaian" size="1.000000 1.000000" />
+    <ImageTarget name="Buzzer" size="1.000000 1.000000" />
+    <ImageTarget name="Breadboard" size="1.000000 1.000000" />
+    <ImageTarget name="ArduinoMegaBoard" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
